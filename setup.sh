@@ -5,3 +5,6 @@ sudo apt install -y llvm portaudio19-dev
 
 # 파이썬 패키지 설치
 pip install -r requirements.txt
+
+sudo apt-get update
+sudo apt-get install -y portaudio19-dev

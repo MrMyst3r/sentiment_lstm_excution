@@ -4,10 +4,8 @@ seaborn
 matplotlib
 pandas
 pyaudio
-whisper
-time
-threading
-googletrans
-tenserflow
-pickle
+openai-whisper  # Whisper 패키지의 정확한 이름
+googletrans==4.0.0-rc1  # 안정적인 버전
+tensorflow 
 janome
+

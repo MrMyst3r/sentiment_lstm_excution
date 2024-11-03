@@ -1,0 +1,13 @@
+streamlit
+numpy
+seaborn
+matplotlib
+pandas
+pyaudio
+whisper
+time
+threading
+googletrans
+tenserflow
+pickle
+janome
